@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Getting Started with Zotero
+## CMU Libraries Workshop Fall 2017
+
+[Zotero] (https://www.zotero.org/) is a free, open source tool for helping you collect, organize, cite and share your research sources. It easily import citation information from library databases, Google Scholar searches, online newspapers, films from IMDB, among other source types.
+
+In this workshop, we’ll cover:
+
+- Navigating Zotero 5.0
+- Importing and organizing references and documents from online sources and your computer
+- Citing sources in Word and creating bibliographies
+- Creating Zotero groups to collaborate with colleagues.
+
+No previous experience required. Please bring a laptop.
 
 You can use the [editor on GitHub](https://github.com/rootsandberries/rootsandberries.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
