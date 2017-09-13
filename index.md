@@ -1,7 +1,7 @@
 # Getting Started with Zotero
 ## CMU Libraries Workshop Fall 2017
 
-[Zotero] (https://www.zotero.org/) is a free, open source tool for helping you collect, organize, cite and share your research sources. It easily import citation information from library databases, Google Scholar searches, online newspapers, films from IMDB, among other source types.
+[Zotero](https://www.zotero.org/) is a free, open source tool for helping you collect, organize, cite and share your research sources. It easily import citation information from library databases, Google Scholar searches, online newspapers, films from IMDB, among other source types.
 
 In this workshop, we’ll cover:
 
