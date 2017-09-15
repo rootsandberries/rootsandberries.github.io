@@ -25,7 +25,7 @@ Please complete the following activities prior to the workshop.
 4. Download the workshop files from the following link: 
 ---
 
-[Workshop Exercises](rootsandberries.github.io/exercises.md) 
+[Workshop Exercises](https://rootsandberries.github.io/exercises.md) 
 ```markdown
 Syntax highlighted code block
 
