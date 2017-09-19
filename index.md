@@ -26,5 +26,3 @@ Please complete the following activities prior to the workshop.
 4. Download [the workshop files](rootsandberries.github.io/2017Fall_Zotero_Files.zip).
 
 ---
-
-### [Workshop Exercises](https://rootsandberries.github.io/exercises.md) 
