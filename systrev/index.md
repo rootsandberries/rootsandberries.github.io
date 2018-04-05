@@ -1,7 +1,11 @@
 # Performing systematic reviews in resource-limited settings
 ## Medical Library Association, CE Course, May 19, 2018
 
-### Install Zotero 
+### Welcome to our workshop page!
+
+---
+
+### Step 1: Install Zotero 
 
 [Zotero](https://www.zotero.org/) is a free, open source citation manager that works offline. We'll be using it to manage our systematic review searches and deduplicate the searches prior to screening. 
 
@@ -13,7 +17,7 @@ Please complete the following steps prior to the workshop.
 
 ---
 
-### Set up a Rayyan account
+### Step 2: Set up a Rayyan account
 
 [Rayyan](https://rayyan.qcri.org/) is an online application for screening studies for a systematic review. We'll be importing our deduplicated searches into Rayyan and practicing the independent screening process.
 
@@ -23,3 +27,11 @@ Please complete the following steps prior to the workshop.
 2. Click the blue Sign Up button.
 3. Fill out the registration form and follow the steps to confirm your account and set up a password.
 4. Make a note of your user name and password so you're ready to use Rayyan during the workshop!
+
+---
+
+### Step 3: Download workshop files
+
+---
+
+### Step 4: Take our pre-workshop survey
