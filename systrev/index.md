@@ -1,7 +1,7 @@
 # Performing systematic reviews in resource-limited settings
 ## Medical Library Association, CE Course, May 19, 2018
 
-### Welcome to our workshop page! Please complete the following steps prior to the workshop. If you have questions or problems, email the instructors, [Sarah Young](mailto: sarahy@andrew.cmu.edu) or Erin Eldermire (erb29@cornell.edu). 
+### Welcome to our workshop page! Please complete the following steps prior to the workshop. If you have questions or problems, email the instructors, [Sarah Young](mailto: sarahy@andrew.cmu.edu) or [Erin Eldermire](mailto: erb29@cornell.edu). 
 
 ---
 
