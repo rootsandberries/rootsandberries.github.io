@@ -1,4 +1,4 @@
-# Deduplicating systematic review searches in Zotero
+# Deduplicating systematic review searches in Zotero using tags
 
 ### Step 1 Import and organize files
 * Import individual search results files by choosing File-->Import. Zotero accepts numerous file types including .ris and .bib.
