@@ -46,5 +46,9 @@ For Windows:
 
 ### Step 4 Detect and merge duplicates
 
+* Return to your All Searches folder and click on the NonDUP tag to bring up the possible non-duplicates.
+* For anything in this list that is in fact a duplicate, click on the duplicate records using Ctrl click. Merge the records by right clicking and choosing Merge Items.
+* After de-duplication, the number of items in your All Searches folder should reflect the number of unique items after de-duplication. You individual database search folders should have the same number of items as they did originally, unless duplicates within a database search were identified and merged in the deduplication process.
+
 
 
