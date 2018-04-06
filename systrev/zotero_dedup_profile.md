@@ -37,6 +37,11 @@ For Windows:
 
 ### Step 3 Import database searches into your new library
 
+* Import individual search results files by choosing File-->Import. Zotero accepts numerous file types including .ris and .bib.
+* New collections will automatically be created for each file import and will be named with the file name. 
+* If needed, rename the collections with the database name and date of search by right clicking and choosing Rename collection.
+* The number of items in each search can be seen by clicking on the folder. The number of items in the folder will appear in the far right-hand pane. Verify that the number of items reflects the number of search results for each database search.
+
 ---
 
 ### Step 4 Detect and merge duplicates
