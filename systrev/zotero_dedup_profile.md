@@ -6,7 +6,7 @@ Zotero detects duplicates as follows (see [this page](https://www.zotero.org/sup
 
 > Zotero currently uses the the title, DOI, and ISBN fields to determine duplicates. If these fields match (or are absent), Zotero also compares the years of publication (if they are within a year of each other) and author/creator lists (if at least one author last name plus first initial matches) to determine duplicates.
 
-### Step 1 Open Zotero Profile Manager
+### Step 1: Open Zotero Profile Manager
 To create a new profile on a computer that already has a Zotero instance (for example, your own personal Zotero library), open the Zotero profile manager via the command line as follows (see [this page](https://www.zotero.org/support/kb/multiple_profiles) and [this page](https://www.zotero.org/support/debug_output#real-time_debug_output) for more details):
 
 For Mac:
@@ -24,7 +24,7 @@ For Windows:
 
 ---
 
-### Step 2 Create a new Zotero profile
+### Step 2: Create a new Zotero profile
 * In the pop-up profile manager that appears, click Create Profile and then Continue.
 
 ![Create new Zotero profile](https://rootsandberries.github.io/systrev/zotero_profile.png)
@@ -35,7 +35,7 @@ For Windows:
 
 ---
 
-### Step 3 Import database searches into your new library
+### Step 3: Import database searches into your new library
 
 * Import individual search results files by choosing File-->Import. Zotero accepts numerous file types including .ris and .bib.
 * New collections will automatically be created for each file import and will be named with the file name. 
@@ -44,11 +44,11 @@ For Windows:
 
 ---
 
-### Step 4 Detect and merge duplicates
+### Step 4: Detect and merge duplicates
 
-* Return to your All Searches folder and click on the NonDUP tag to bring up the possible non-duplicates.
-* For anything in this list that is in fact a duplicate, click on the duplicate records using Ctrl click. Merge the records by right clicking and choosing Merge Items.
-* After de-duplication, the number of items in your All Searches folder should reflect the number of unique items after de-duplication. You individual database search folders should have the same number of items as they did originally, unless duplicates within a database search were identified and merged in the deduplication process.
+* Scroll to the bottom of your collection folders and click on Duplicate Items.
+* Click on the items in the middle pane. Merge item records when they appear to be a true duplicate. Check for differences in the metadata using the duplicate drop downs next to the fields in the right-hand pane. For more information and screenshots, see [this page](https://www.zotero.org/support/duplicate_detection). 
+* After merging, the number of items in your individual database search collections will not have changed, reflecting the original number of records found in that database. However, the total number of items in the Zotero library will have declined by the number of duplicates that have been merged. Click on the brown My Library collection at the top of your collection folders in the left-hand pane to determine the new total. You can always add up the number of items in individual collections and subtract the My Library total to determine how many duplicates were removed. 
 
 
 
