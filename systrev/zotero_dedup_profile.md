@@ -23,7 +23,7 @@ For Windows:
 ---
 
 ### Step 2 Create a new Zotero profile
-* In the pop-up profile manager, click Create Profile and then Continue.
+* In the pop-up profile manager that appears, click Create Profile and then Continue.
 * Name your new profile and click Done.
 * You can uncheck the box next to "Use the selected profile without asking at startup". This will allow you to choose which profile you want to open when you launch the Zotero desktop application. 
 * With the new profile highlighted, click Start Zotero. You may be prompted to install the Word plugin or create and online account, but neither of these are necessary if you're only using this profile to deduplicate searches. 
