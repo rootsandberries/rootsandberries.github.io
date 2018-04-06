@@ -14,6 +14,8 @@ For Mac:
 * Paste "/Applications/Zotero.app/Contents/MacOS/zotero -P", without quotes, into the Terminal window. Note the space before the hyphen.
 * Press Return
 
+![Open Zotero Profile Manager in Mac](rootsandberries.github.io/systrev/terminal_zotero.png)
+
 For Windows:
 * Press Windows + R or search for 'run' to open the Run window. Click Browse and locate Zotero (typically located at "C:\Program Files (x86)\Zotero\zotero.exe")
 * Select the appropriate file and click Open.
