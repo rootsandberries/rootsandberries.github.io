@@ -35,7 +35,7 @@ For Windows:
 
 ---
 
-### Step 3 Import database searches in your new library
+### Step 3 Import database searches into your new library
 
 ---
 
