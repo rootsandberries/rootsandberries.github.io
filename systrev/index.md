@@ -1,15 +1,13 @@
 # Performing systematic reviews in resource-limited settings
 ## Medical Library Association, CE Course, May 19, 2018
 
-### Welcome to our workshop page!
+### Welcome to our workshop page! Please complete the following steps prior to the workshop. If you have questions or problems, email the instructors, [Sarah Young] (mailto: sarahy@andrew.cmu.edu) or [Erin Eldermire] (mailto: erb29@cornell.edu). 
 
 ---
 
 ### Step 1: Install Zotero 
 
-[Zotero](https://www.zotero.org/) is a free, open source citation manager that works offline. We'll be using it to manage our systematic review searches and deduplicate the searches prior to screening. 
-
-Please complete the following steps prior to the workshop.
+[Zotero](https://www.zotero.org/) is a free, open source citation manager that works offline. We'll be practicing importing and deduplicating searches. 
 
 1. Go to the [Zotero download page](https://www.zotero.org/download/) and download Zotero 5.0. 
 2. From [the same webpage](https://www.zotero.org/download/), download the Zotero connector for your browser of choice. 
@@ -21,8 +19,6 @@ Please complete the following steps prior to the workshop.
 
 [Rayyan](https://rayyan.qcri.org/) is an online application for screening studies for a systematic review. We'll be importing our deduplicated searches into Rayyan and practicing the independent screening process.
 
-Please complete the following steps prior to the workshop.
-
 1. Go to the [Rayyan website](https://rayyan.qcri.org/). 
 2. Click the blue Sign Up button.
 3. Fill out the registration form and follow the steps to confirm your account and set up a password.
@@ -32,6 +28,10 @@ Please complete the following steps prior to the workshop.
 
 ### Step 3: Download workshop files
 
+Please download [this zip file] () and save it to your desktop for quick access during the workshop. This includes database export files for practice with Zotero and Rayyan and worksheets for in-class exercises.
+
 ---
 
 ### Step 4: Take our pre-workshop survey
+
+Please take [this short survey] () in advance of the workshop.  It will help us make adjustments to the curriculum to better suit the audience.
