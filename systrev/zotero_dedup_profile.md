@@ -11,7 +11,7 @@ To create a new profile on a computer that already has a Zotero instance (for ex
 
 For Mac:
 * Open Terminal via Spotlight or /Applications/Utilities.
-* Paste "/Applications/Zotero.app/Contents/MacOS/zotero -ZoteroDebug", without quotes, into the Terminal window. Note the space before the hyphen.
+* Paste "/Applications/Zotero.app/Contents/MacOS/zotero -P", without quotes, into the Terminal window. Note the space before the hyphen.
 * Press Return
 
 For Windows:
